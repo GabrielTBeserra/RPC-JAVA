@@ -1,0 +1,4 @@
+models\Editora.class
+servico\IEditoraCrud.class
+servico\ILivroCrud.class
+models\Livro.class
